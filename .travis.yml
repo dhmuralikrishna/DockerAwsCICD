@@ -1,4 +1,3 @@
-os: windows
 sudo : required
 services : 
   - docker 
